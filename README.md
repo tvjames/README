@@ -79,3 +79,11 @@ Almond croissant/subway cookie, dragonfruit (from asia), Chocolate mud cake.
 ## My expectations of folks who report to me
 
 ## What you can expect of me as your manager
+
+## What makes me, me
+
+_What do I do in my spare time?_
+
+* Hobbiest networking/homelab (routers, firewalls, etc). 
+* Occasional gaming (adventure; think Myst, Obduction)
+* Technophile life, gadgets, tinkering, researching, reading, learning
