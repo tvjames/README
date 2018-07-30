@@ -87,3 +87,11 @@ _What do I do in my spare time?_
 * Hobbiest networking/homelab (routers, firewalls, etc). 
 * Occasional gaming (adventure; think Myst, Obduction)
 * Technophile life, gadgets, tinkering, researching, reading, learning
+
+_What are your favourite movies?_
+
+* Lock Stock and Two Smoking Barrels 
+* Office Space (required watching for anyone in IT)
+* The Fifth Element 
+* Pulp Fiction
+
