@@ -10,13 +10,17 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 
 **Strong Opinions, Weakly Held.**
 
+* Family comes first, your family, my family. When you're worried/concerned/anxious about something family related (illness, argument, money, kids, school, whatever) then you're not going to be able to focus on work, so focus on your family and we've got your back. 
 * Decisions & direction should not be made by committee, committees are for fact finding and open analysis
+* We're a team, each of us has a role to play, each of us is just as important as the other, the work we do doesn't define us, but how we make each other better. Greater than the sum of the parts. 
 * Find the experts and listen to them, but never ignore the dissenting voice "that wont work because". 
 * Everyone, regardless of position, deserves to be heard. 
 * Challenge me
 * "Face value" doesn't fly, mostly
 * I make mistakes, you make mistakes, thats okay. Dont hide it. Learn from it.
+* You have my trust.
 * Respect is earned, this applies to me earning yours and you earning mine. 
+* Respect is earned by what we say but more often by what we do.
 * Forgive and forget. Grudges aren't worth it.
 
 ## Quirks 
@@ -74,7 +78,7 @@ _Human learning and growth requires the right amount of four things: new challen
 
 _What’s your favorite baked good, fruit and cake?_
 
-Almond croissant/subway cookie, dragonfruit (from asia), Chocolate mud cake. 
+Almond croissant/subway cookie, dragonfruit, chocolate mud cake. 
 
 ## My expectations of folks who report to me
 
