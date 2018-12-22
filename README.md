@@ -78,7 +78,7 @@ _Human learning and growth requires the right amount of four things: new challen
 
 _What’s your favorite baked good, fruit and cake?_
 
-Almond croissant/subway cookie, dragonfruit, chocolate mud cake. 
+Almond croissant/subway cookie, dragonfruit (or mango), chocolate mud cake. 
 
 ## My expectations of folks who report to me
 
@@ -92,10 +92,15 @@ _What do I do in my spare time?_
 * Occasional gaming (adventure; think Myst, Obduction)
 * Technophile life, gadgets, tinkering, researching, reading, learning
 
-_What are your favourite movies?_
+_What are my favourite movies?_
 
 * Lock Stock and Two Smoking Barrels 
 * Office Space (required watching for anyone in IT)
 * The Fifth Element 
 * Pulp Fiction
+
+_What kind of games do I enjoy?_
+
+* Adventure gaming mostly
+* Towerfall, the fast paced, chaotic nature 
 
