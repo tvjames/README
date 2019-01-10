@@ -104,3 +104,10 @@ _What kind of games do I enjoy?_
 * Adventure gaming mostly
 * Towerfall, the fast paced, chaotic nature 
 
+## Something you probably didn't expect about me
+
+My wife and I were once avid [couchsurfing](https://www.couchsurfing.com/) hosts, 
+opening our home to travellers wishing to stay with a local. Through this we've 
+made friendships that continue today, people from all around the world and been 
+encouraged to do things we otherwise might not have (like travelling to (Norway)
+with a two-month-old.
