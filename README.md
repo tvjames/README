@@ -34,7 +34,8 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 
 * Reading: The Manager's Path by Camille Fournier
 * Listening: Radical Candor by Kim Scott
-* Listening: The Subtle Art of Not Giving a F_ck: A Counterintuitive Approach to Living a Good Life by Mark Manson
+* Listening: Everything Is F*cked: A Book About Hope by Mark Manson
+* ~Listening: The Subtle Art of Not Giving a F_ck: A Counterintuitive Approach to Living a Good Life by Mark Manson~
 
 ## [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 
