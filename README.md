@@ -30,12 +30,14 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 * Advocate with a well reasoned argument, expect me to question, I don’t expect answers right away, but don’t expect me to be convinced right away either.
 * I avoid conflict, or perseved conflict. I'm trying to do better with this. 
 
-## What I'm interested in at the moment
+## Booklist
 
 * Reading: The Manager's Path by Camille Fournier
 * Listening: Radical Candor by Kim Scott
-* Listening: Everything Is F*cked: A Book About Hope by Mark Manson
+* ~Listening: Everything Is F*cked: A Book About Hope by Mark Manson~
 * ~Listening: The Subtle Art of Not Giving a F_ck: A Counterintuitive Approach to Living a Good Life by Mark Manson~
+* ~Listening: Astrophysics for People in a Hurry by Neil deGrasse Tyson~
+* Listening: Thinking, Fast and Slow by Daniel Kahneman
 
 ## [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 
@@ -57,11 +59,11 @@ Leave me alone to let it pass as it never lasts long, appropriate distraction
 
 _How do you like feedback - the medium (IRC, email, in person, etc.)_
 
-Usually in person, probably in private, but public if it's something that needs me to address immidiately. Slack/email if I'm gumpy at the time. 
+Usually in person, probably in private, but public if it's something that needs me to address immediately. Slack/email if I'm grumpy at the time. 
 
 _How do you like feedback - routine like in 1:1s, or as-it-happens_
 
-As close to as-it-happens after the stress has passed as must as possible. 
+As close to as-it-happens after the stress has passed, as must as possible. 
 
 _How do you prefer to receive recognition? (public or private)_
 
