@@ -33,10 +33,12 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 ## Booklist
 
 * Reading: The Manager's Path by Camille Fournier
-* Listening: Radical Candor by Kim Scott
-* ~Listening: Everything Is F*cked: A Book About Hope by Mark Manson~
-* ~Listening: The Subtle Art of Not Giving a F_ck: A Counterintuitive Approach to Living a Good Life by Mark Manson~
-* ~Listening: Astrophysics for People in a Hurry by Neil deGrasse Tyson~
+* Listening: Dare to Lead by Brené Brown
+* ~~Listening: Never Split the Difference by Chris Voss~~
+* ~~Listening: Radical Candor by Kim Scott~~
+* ~~Listening: Everything Is F*cked: A Book About Hope by Mark Manson~~
+* ~~Listening: The Subtle Art of Not Giving a F_ck: A Counterintuitive Approach to Living a Good Life by Mark Manson~~
+* ~~Listening: Astrophysics for People in a Hurry by Neil deGrasse Tyson~~
 * Listening: Thinking, Fast and Slow by Daniel Kahneman
 
 ## [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
@@ -72,6 +74,8 @@ Privately, it's almost never an individual contribution, and I do find recogniti
 ### Goals and Support
 
 _What makes 1:1s the most valuable for you?_
+
+The time put aside to listen to the people I work closely with. Getting to know them as people and not just as others that occupy a desk in the same place we work.
 
 _What are your goals for this year? And for the next 3 months?_
 
