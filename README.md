@@ -41,6 +41,28 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 * ~~Listening: Astrophysics for People in a Hurry by Neil deGrasse Tyson~~
 * Listening: Thinking, Fast and Slow by Daniel Kahneman
 
+### On the list / next up
+
+* Audiobook: The Hard Thing About Hard Things by Ben Horowitz
+* Audiobook: Predictably Irtrational by Dan Ariely
+* Audiobook: Curcial Conversations by Kerry Patterson
+* Audiobook: Sapians by Yuval Noah Harari
+* Audiobook: Homo Deus by Yuval Noah Harari
+* Audiobook: Accelerate: Building and Scaling High Performing Technology Organisations by Nicole Forsgren PhD, Jez Humble and Gene Kim
+* Audiobook: Thinking in Systems by Donella Meadows
+* Audiobook: Principles by Ray Dalio
+* Audiobook: Outliers by Malcolm Gladwell
+* Kindle: Risk & Resilience by Lisa Messenger
+* Kindle: Team Topologies by Matthew Skelton, Manuel Pais
+* Kindle: Obviously Awesome by April Dunford
+* Kindle: The Startup Way by Eric Ries
+* Kindle: An Elegant Puzzle by Will Larson
+* Kindle: The Unicon Project by Gene Kim
+* Kindle: The Phoenix Project by Gene Kim, Kevin Behr, George Spafford
+* Kindle: The Making of a Manager by Julie Zhuo
+* Kindle: The Secrets of Consulting by Gerald Weinberg
+
+
 ## [Questions for our first 1:1](https://larahogan.me/blog/first-one-on-one-questions/)
 
 ### Grumpiness
