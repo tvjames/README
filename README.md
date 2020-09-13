@@ -28,7 +28,8 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 * When in delivery mode, focused on the here and now. I don't want to hear about the grand vision for 2 years time. 
 * Want to change my opinion, come to me with a well formulated argument that you can back up. Don't just tell me to "read this article", I might not come to the conclusion you are advocating for.
 * Advocate with a well reasoned argument, expect me to question, I don’t expect answers right away, but don’t expect me to be convinced right away either.
-* I avoid conflict, or perseved conflict. I'm trying to do better with this. 
+* I avoid conflict, or perseved conflict. I'm trying to do better with this.
+* I value receiving (candid) feedback well above my own ego
 
 ## Booklist
 
