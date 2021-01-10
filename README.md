@@ -148,4 +148,25 @@ made friendships that continue today, people from all around the world and been
 encouraged to do things we otherwise might not have (like travelling to (Norway)
 with a two-month-old.
 
+## Finally, some values. 
+
+This is a section I don't want to include above until I have a more solidified view of my own set of values. So in the meantime I'll borrow sets of values that I've stronly identified with. The first time I had an "epiphany" moment was when I joined Stacktrace, saw their list of values which evoked a "Yes! Those are the same things I also hold near". Are they truely my own, or just closely compatible enough to _feel_ like my own?
+
+Here's a list of some. 
+
+* Explicit is better than implicit
+* Culture eats process for breakfast.
+* Be curious, and ask.
+* Kindness is better than correctness.
+* Low quality is expensive. So is perfection. Be relentlessly pragmatic.
+* Take an investment mindset, then offer tradeoffs.
+
+I recent came across the [My Engineering Axioms](https://martinrue.com/my-engineering-axioms/) (along with a lot of other [Hacker News](https://news.ycombinator.com/item?id=25500815) reader - it's a good read either way) and found a few of those I thought might be values I can consider compatible with my own as well. 
+
+* Your product is an asset, but code is a liability. - this is one I've come to feel strongly over the last decade - teams matter many times more that the code output they produce. 
+* The longer you wait the more you'll know.
+* The right team of people trumps everything else.
+* It's OK to say "I don't know" or "I need to research that before I have an answer". - "I don't know" is a powerful phrase
+* It's all about trade-offs.
+
 
