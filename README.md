@@ -168,5 +168,7 @@ I recent came across the [My Engineering Axioms](https://martinrue.com/my-engine
 * The right team of people trumps everything else.
 * It's OK to say "I don't know" or "I need to research that before I have an answer". - "I don't know" is a powerful phrase
 * It's all about trade-offs.
+* I consider it unethical to ask/require people to take AL for (reasonable) professional development. Professional development costs should be borne by the company, but this doesn't always need to be the case. It’s personally a non-negotiable for me that professional development is work time, without strings attached (i.e. the requirement to present to team internally etc).
+
 
 
