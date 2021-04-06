@@ -28,8 +28,15 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 * When in delivery mode, focused on the here and now. I don't want to hear about the grand vision for 2 years time. 
 * Want to change my opinion, come to me with a well formulated argument that you can back up. Don't just tell me to "read this article", I might not come to the conclusion you are advocating for.
 * Advocate with a well reasoned argument, expect me to question, I don’t expect answers right away, but don’t expect me to be convinced right away either.
-* I avoid conflict, or perseved conflict. I'm trying to do better with this.
+* I tend to avoid conflict, or perseved conflict. I'm trying to do better with this.
 * I value receiving (candid) feedback well above my own ego
+
+## Communication over Slack (or equivalent)
+
+* I prefer to treat slack as an asynchronous communications tool, if time is of the essence please grab me at my desk or give me a call.
+* When a conversation can be public (eg product discussions, work clarification), I would encourage that conversation to be held in a public channel. This enables others to benefit from the discussion, or to feel less alone if they also wanted to ask a similar question. Team/product/engineering channels are a great place for this. Keep DMs for private conversation, where it's only relevant/appropriate for the two parties. 
+* I use the do-not-disturb (DND) feature, it's generally active from evening to early morning.
+* Use threads to keep a conversation in the context of the original message, allowing the channel chat to carry on.
 
 ## Booklist
 
