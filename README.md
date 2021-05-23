@@ -41,7 +41,8 @@ Disclaimer: This is my personal opinion, as best I can at honest self-reflection
 ## Booklist
 
 * Reading: The Manager's Path by Camille Fournier
-* Listening: Dare to Lead by Brené Brown
+* Listening: Just Work by Kim Scott
+* ~~Listening: Dare to Lead by Brené Brown~~
 * ~~Listening: Never Split the Difference by Chris Voss~~
 * ~~Listening: Radical Candor by Kim Scott~~
 * ~~Listening: Everything Is F*cked: A Book About Hope by Mark Manson~~
